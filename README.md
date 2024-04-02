@@ -20,6 +20,12 @@ streamlit run app.py
 
 How to reate a web app that reads a dataset and displays interesting data visualizations about the dataset
 
+How to filter data
+
+How to draw plots using plotly
+
+How to use sidebar
+
 ## Questions
 
 ## TODO
