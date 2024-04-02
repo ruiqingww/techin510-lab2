@@ -18,11 +18,7 @@ streamlit run app.py
 
 ## Lessons learned
 
-How to use Streamlit to create a simple website
-
-How to use requirements.txt to manage Python dependencies
-
-How to use GitHub Actions to deploy a website to Azure App Service
+How to reate a web app that reads a dataset and displays interesting data visualizations about the dataset
 
 ## Questions
 

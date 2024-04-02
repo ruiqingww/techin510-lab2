@@ -1,6 +1,5 @@
 streamlit
 seaborn
-
-
+plotly
 
 
