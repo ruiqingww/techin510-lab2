@@ -4,6 +4,7 @@
 
 A data analysis application to find out interesting insights about Boston Housing.
 
+Demo: https://lab2bostonhousing.streamlit.app/
 ## Getting Started
 
 '''
