@@ -2,7 +2,7 @@
 
 ## Overview
 
-A data analysis application to find out interesting insights about penguins in the artic.
+A data analysis application to find out interesting insights about Boston Housing.
 
 ## Getting Started
 
@@ -18,14 +18,18 @@ streamlit run app.py
 
 ## Lessons learned
 
-How to reate a web app that reads a dataset and displays interesting data visualizations about the dataset
+How to create a web app that reads a dataset and displays interesting data visualizations about the dataset
 
-How to filter data
+How to choose the right filtering and visualization method for the right features
 
-How to draw plots using plotly
+How to use slider, dropdown, select widgets to filter data
 
-How to use sidebar
+How to draw plots using plotly, including bar charts and scatter charts
 
-## Questions
+How to use sidebar for filtering widgets
 
-## TODO
+## Questions & TODO
+
+How to reset all or some current filters using a button instead of refreshing the page?
+
+How to change color of the plot?
